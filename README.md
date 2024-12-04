@@ -1,4 +1,4 @@
-# test-py-web-app
+# Python tests for web app.
 
 This project is a web application with automated tests implemented in Python using `pytest` and `selenium`. This README provides guidelines to set up the environment, run the tests, and configure the necessary environment variables.
 

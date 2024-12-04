@@ -105,10 +105,3 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 This project is licensed under the [MIT license](https://opensource.org/license/mit)
 
-```yaml
-
-### **Key Notes**
-- Added troubleshooting instructions for common issues.
-- Included detailed information about environment variables to prevent runtime errors.
-- Clear commands for different operating systems improve accessibility.
-```
